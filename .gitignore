@@ -1,0 +1,5 @@
+#Diretorios
+vendor
+
+#Arquivos
+composer.lock
